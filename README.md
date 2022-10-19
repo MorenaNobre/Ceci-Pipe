@@ -35,10 +35,10 @@
 <br>
 
 <p>Ceci n'est pas une pipe é um projeto simples feito com HTML, CSS e Javascript.
-Seu objetivo central é demonstrar como essas ferramentas são poderosas e com a criatividade do designer e programador podem ser desenvolvidas páginas dignas de serem chamadas de obra de arte e fora do padrão que estamos acostumados a ver todos os dias.
+Seu objetivo central é aprender e experimentar como as ferramentas de animação funcionam em uma landing page.
 </p>
 
-<p>Neste projeto também foi utilizada a GSAP, ou Greensock Animation API, que é uma biblioteca JS que tem capacidade de criar animações de alta performance somada a uma API amigável e de tamanho bem reduzido</p>
+<p>Neste projeto foi utilizada a GSAP, ou Greensock Animation API, que é uma biblioteca JS que tem capacidade de criar animações de alta performance somada a uma API amigável e de tamanho bem reduzido</p>
 
 <br>
 
